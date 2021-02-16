@@ -1,7 +1,7 @@
 # I-hafta-odev
 
 - Visual Studio Code Kurulumu
-
+- Kurulum Yapıldı
 -	VS Code’da kullanabileceğiniz eklentilerin araştırılması
 
 -	Github hesabı açılması
